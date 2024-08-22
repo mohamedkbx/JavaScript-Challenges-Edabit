@@ -17,6 +17,19 @@ The repository is organized as follows:
 - **Level 7 - Master**: Problems that are difficult even for seasoned developers.
 - **Level 8 - Grandmaster**: The toughest challenges on the platform, meant for true problem-solving aficionados.
 
+## Solved Problems
+
+Here's the count of problems solved at each difficulty level:
+
+- **Level 1 - Beginner**: _2_ problems solved
+- **Level 2 - Easy**: _X_ problems solved
+- **Level 3 - Intermediate**: _X_ problems solved
+- **Level 4 - Hard**: _X_ problems solved
+- **Level 5 - Advanced**: _X_ problems solved
+- **Level 6 - Expert**: _X_ problems solved
+- **Level 7 - Master**: _X_ problems solved
+- **Level 8 - Grandmaster**: _X_ problems solved
+
 ## Getting Started
 
 1. Clone the repository:
@@ -24,3 +37,4 @@ The repository is organized as follows:
    ```bash
    git clone https://github.com/mohamedkbx/JavaScript-Challenges-Edabit.git
    cd JavaScript-Challenges-Edabit
+   ```
