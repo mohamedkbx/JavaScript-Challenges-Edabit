@@ -21,7 +21,7 @@ The repository is organized as follows:
 
 Here's the count of problems solved at each difficulty level:
 
-- **Level 1 - Beginner**: _9_ problems solved
+- **Level 1 - Beginner**: _12_ problems solved
 - **Level 2 - Easy**: _5_ problems solved
 - **Level 3 - Intermediate**: _X_ problems solved
 - **Level 4 - Hard**: _X_ problems solved
